@@ -1,10 +1,10 @@
 {
   "name": "Júllio César Galdino Costa",
   "photo": "assets/img/Jullio-img.png",
-  "job": "Junior Developer Front End",
+  "job": "Estudante de Análise e Desenvolvimento de Sistemas",
   "location": "Camaragibe - PE",
-  "phone": "(64) 99265-3049",
-  "email": "winthermarcos@gmail.com",
+  "phone": "(XX) XXXXX-XXXX",
+  "email": "julliocesar5002@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -43,8 +43,8 @@
     ]
   },
   "languages": [
-    "Português BR (fluente)",
-    "Inglês (iniciante)"
+    "Português BR (Nativo)",
+    "Inglês (Básico)"
   ],
   "portfolio": [
     {
