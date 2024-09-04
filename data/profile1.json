@@ -16,12 +16,8 @@
         "logo": "assets/img/tools/html.png"
       },
       {
-        "name": "CSS",
-        "logo": "assets/img/tools/css.png"
-      },
-      {
-        "name": "Nodejs",
-        "logo": "assets/img/tools/nodejs.png"
+        "name": "C#",
+        "logo": "assets/img/tools/csharp.png"
       },
       {
         "name": "JavaScript",
