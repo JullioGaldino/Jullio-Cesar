@@ -30,6 +30,14 @@
       {
         "name": "Angular",
         "logo": "assets/img/tools/angular.png"
+      },
+      {
+        "name": "Java",
+        "logo": "assets/img/tools/java.png"
+      },
+      {
+        "name": "React",
+        "logo": "assets/img/tools/react.png"
       }
     ],
     "softSkills": [
