@@ -52,9 +52,8 @@
   ],
   "portfolio": [
     {
-      "name": "Projeto Recriando o site do Wikipédia com layout melhor - tema Heartstopper",
-      "url": "https://github.com/MarcosWinther/projeto-recriando-o-site-wikepedia-com-layout-melhor",
-      "certificate": "https://www.dio.me/certificate/AB5C29B3/share",
+      "name": "Projeto de cadastro de usuário - Básico",
+      "url": "https://github.com/JullioGaldino/Cadastro-de-usu-rio-em-C---B-sico/tree/main",
       "github": true
     }
   ],
