@@ -49,10 +49,7 @@ function updateProfilePortfolio(profileData) {
             <strong>Link do GitHub:</strong>
             <a href="${project.url}" target="_blank">${project.url}</a>
          </span>
-         <span>
-            <strong>Link do certificado:</strong>
-            <a href="${project.certificate}" target="_blank">${project.certificate}</a>
-         </span>
+         
       </li>
    `).join('');
 }
