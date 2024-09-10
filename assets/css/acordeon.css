@@ -10,7 +10,7 @@
 
 .acordeon.open,
 .acordeon:hover {
-   background: linear-gradient(10deg, #102bf97c, #0d0376a1);
+   background: linear-gradient(5deg, #102bf97c, #090257ab);
    border-color: #ffffff;
 }
 
