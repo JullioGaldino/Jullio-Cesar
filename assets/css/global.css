@@ -6,7 +6,7 @@
 }
 
 html {
-    background-image: linear-gradient(to bottom, transparent 0%, #ff0000b6 90%), url('../../assets/img/Wallpaper.png');
+   background-image: linear-gradient(to bottom, transparent -50%, #290342da 90%), url('../../assets/img/Wallpaper.png');
    background-size: 1920px 1080px;
 }
 
