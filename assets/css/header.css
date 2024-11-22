@@ -17,16 +17,24 @@
    height: 200px;
    border-radius: 60%;
    margin-right: 100px;
+   /* offset-x | offset-y | blur-radius | color */
+   box-shadow: 10px 5px 30px rgb(84, 4, 187);
 }
 
 .header .title {
    display: flex;
    font-family: 'Neue Machina';
    text-align: center;
+   position: relative;
+   right: -50px;
+   width: 1500px;
+   /* offset-x | offset-y | blur-radius | color */
+   text-shadow: 10px 5px 5px rgb(84, 4, 187);
 }
 
 .header .title span {
    margin-left: 10px;
+   margin-right: 10px;
 }
 
 .header .information {
@@ -34,8 +42,9 @@
    flex-direction: column;
    align-items: flex-start;
    width: 100%;
-   margin-top: 150px;
-   margin-left: -285px;
+   position: relative;
+   top: 150px;
+   right: 200px;
 }
 
 .header .information p {
