@@ -8,10 +8,11 @@
 html {
    background-image: linear-gradient(to bottom, transparent -50%, #290342da 90%), url('../../assets/img/Wallpaper.png');
    background-size: 1920px 1080px;
+   background-repeat: round;
 }
 
 body {
-   color: #fff;
+   color: #ffffff;
 }
 
 a {
@@ -25,9 +26,6 @@ a:hover {
 
 main {
    margin: 1rem;
-   padding: 1rem;
-   border: 1px solid #fff;
-   border-radius: 1rem;
 }
 
 main::after {
@@ -41,8 +39,7 @@ main::after {
 @media only screen and (min-width: 768px) {
 
    main {
-      max-width: 1024px;
-      margin: 1rem auto;
+      max-width: 1920px;
    }
 
    main::before,

@@ -6,27 +6,17 @@
 .header {
    display: flex;
    flex-direction: column;
-   align-items: center;
+   align-items: left;
    position: relative;
+   margin-right: 900px;
 }
 
-.header::after {
-   content: '';
-   display: inline-block;
-   position: absolute;
-   top: 1rem;
-   right: 1rem;
-   width: 2rem;
-   height: 2rem;
-   background-repeat: no-repeat;
-   background-size: contain;
-   background-image: url('../../assets/img/icons/header.svg');
-}
 
 .header .photo {
    width: 200px;
    height: 200px;
-   border-radius: 50%;
+   border-radius: 60%;
+   margin-right: 100px;
 }
 
 .header .title {
@@ -44,6 +34,8 @@
    flex-direction: column;
    align-items: flex-start;
    width: 100%;
+   margin-top: 150px;
+   margin-left: -285px;
 }
 
 .header .information p {
