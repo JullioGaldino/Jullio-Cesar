@@ -19,9 +19,8 @@ footer img {
    font-size: 20px;
 }
 
-@media screen and (max-width: 1366px) {
+@media screen and (max-width: 1500px) {
    footer {
       position: relative;
-      top: -180px;
    }
 }

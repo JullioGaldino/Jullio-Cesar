@@ -51,12 +51,17 @@ main::after {
 
 @media screen and (max-width: 1366px) {
    main {
-      margin: 100px;
+      max-width: 1366px;
+      margin: 10px;
    }
 
    html {
-      margin: 100px;
+      margin: auto;
+      background-size: 1920px 1080px;
    }
 
    
 }
+
+
+
