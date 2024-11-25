@@ -89,6 +89,8 @@
       "photo title"
       "photo information"
       ;
+      position: relative;
+      right: 100px;
    }
 
    .header .photo {
@@ -109,10 +111,21 @@
 }
 
 @media screen and (max-width: 1500px) {
-   .header .title {
+   .header {
+      display: grid;
+      grid-template-areas: 
+      "photo title"
+      "photo information"
+      ;
       position: relative;
-      right: -50px;
-      width: 1000px;
+      right: -10px;
+   }
+
+   .header .title {
+      font-size: 1.5em;
+      position: relative;
+      right: -5px;
+      width: 1190px;
    }  
 
    .header .photo {
@@ -122,11 +135,6 @@
 
    .header .information {
       top: 120px;
-      right: 71px;
-   }
-   
-   .header .titke {
-      width: 1000px;
-      height: 10px;
+      right: 150px;
    }
 }
