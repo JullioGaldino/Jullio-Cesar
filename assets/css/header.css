@@ -24,8 +24,8 @@
    font-family: 'Neue Machina';
    text-align: center;
    position: relative;
-   right: -50px;
-   width: 1000px;
+   right: 117px;
+   width: 1190px;
    /* offset-x | offset-y | blur-radius | color */
    text-shadow: 10px 5px 5px rgb(84, 4, 187);
 }
